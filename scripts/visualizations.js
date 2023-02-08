@@ -1,8 +1,5 @@
 /*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
+    Created by Rajesh Tuppalwad
 */
 
 //We only have to change background-color and height of the sorting element.
