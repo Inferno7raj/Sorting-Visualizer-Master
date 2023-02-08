@@ -1,8 +1,5 @@
 /*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
+    Created by Rajesh Tuppalwad
 */
 
 function Merge()
