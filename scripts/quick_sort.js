@@ -78,8 +78,5 @@ function quick_sort (start, end )
  }
 
 /*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
+     Created by Rajesh Tuppalwad
 */
