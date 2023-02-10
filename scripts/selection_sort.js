@@ -57,8 +57,5 @@ function Selection_sort()
 }
 
 /*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
+    Created by Rajesh Tuppalwad
 */
