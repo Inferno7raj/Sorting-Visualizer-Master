@@ -54,8 +54,5 @@ function Insertion()
 }
 
 /*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
+    Created by Rajesh Tuppalwad
 */
