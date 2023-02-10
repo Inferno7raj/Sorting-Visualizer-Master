@@ -90,8 +90,5 @@ function runalgo()
 }
 
 /*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
+     Created by Rajesh Tuppalwad
 */
