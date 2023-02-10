@@ -55,8 +55,5 @@ function enable_buttons()
 }
 
 /*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
+    Created by Rajesh Tuppalwad
 */
